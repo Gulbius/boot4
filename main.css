@@ -1,10 +1,10 @@
 .cont{
     padding: 10px;
-    background-color: rgb(255, 176, 127);
+    background-color: rgb(253,175,177);
     height: 700px;
 }
 .header{
-    background-color: blueviolet;
+    background-color: rgb(152,209,199);
     height: 80px;
     text-align: center;
     font-weight: 5px;
@@ -13,7 +13,7 @@
     margin: 20px 20px 20px 20px;
 }
 .aside{
-    background-color: blue;
+    background-color: rgb(98,183,182);
     height: 400px;
     text-align: center;
     font-weight: 5px;
@@ -23,18 +23,19 @@
     
 }
 .article{
-    background-color: blue;
+    background-color:rgb(250,122,123);
     height: 400px;
     text-align: center;
     font-weight: 5px;
     color: aliceblue;
     font-size: 30px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 0px 0px 45px;
+    
 }
 .img{
+    margin-top: 180px;
     height: 150px;
-    padding: 10px;
-    background-color: rgb(170, 255, 127);
-    border: 2px solid black;
-    margin-left: 25px;
+    background-color: rgb(214,213,213);
+    margin-left: 50px;
+    text-align: center;
 }
